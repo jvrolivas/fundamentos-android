@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasesdAndroid</string>
+    <string name="btn_intro">Entrer</string>
+    <string name="txt_welcome">Bienvenue</string>
+</resources>
